@@ -15,7 +15,7 @@ To understand diff tools in git
 
 ## how to contribute
 
-Its fairly simple its just a dummy project
+Please fork this repository and then issue pull requests for review
 
 
 
