@@ -21,3 +21,6 @@ Its fairly simple its just a dummy project
 
 ##deployment
 It can be deployed on any web server or local file system
+
+##Copyright
+Copyright Section :The contents belong to jason taylor any duplicacy will therfore result in penalty
