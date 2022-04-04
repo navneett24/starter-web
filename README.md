@@ -23,7 +23,7 @@ Please fork this repository and then issue pull requests for review
 It can be deployed on any web server or local file system
 
 ##Copyright
-Copyright Section :The contents belong to jason taylor any duplicacy will therfore result in penalty
+2014 Git.training. All rights reserved
 
 
 ##rebasing
